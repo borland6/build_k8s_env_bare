@@ -1,4 +1,4 @@
-# Build K8S Lab Environment using Vargant
+# Build K8S Lab Environment using Vagrant
 
 build k8s env with bare metal ubuntu vm
 
