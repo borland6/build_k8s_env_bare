@@ -20,5 +20,5 @@ sudo chown root:root /root/.kube/config
 
 echo "[TASK 6] copy kubeconfig file for vagrant user"
 mkdir -p /home/vagrant/.kube
-sudo cp -i /etc/kubernetes/admin.conf $/home/vagrant/.kube/config
+sudo cp -i /etc/kubernetes/admin.conf /home/vagrant/.kube/config
 sudo chown vagrant:vagrant /home/vagrant/.kube/config
